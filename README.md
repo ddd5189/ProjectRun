@@ -21,3 +21,6 @@ My idea started with how can I create and use a swinging mechanic that is as sat
 
 
 If you would like to contribute, here's a link to the first playtest: https://docs.google.com/document/d/1PijdYXOi00lyzhZPd1wguTDknRxYVpNVNyi-sMElNuI/edit?usp=sharing
+
+
+This is a second repository with the updated game. There was an issue with the old version and I wanted to keep them seperate. To see what was done before this point go here: https://github.com/ddd5189/ProjectRunOld
